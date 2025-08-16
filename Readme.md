@@ -1,6 +1,7 @@
 # 🚀 Bitcoin Market Anomaly Detection (2020–2023)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/YOUR_REPO/blob/main/analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/bitcoin-market-anomaly-detection
+/blob/main/analysis.ipynb)
 
 ---
 
@@ -103,3 +104,4 @@ Cryptocurrency markets are highly volatile — always do your own research befor
 ## ⭐ How to Support
 If you found this project helpful, please **star ⭐ this repository** on GitHub.  
 Your support motivates me to create more projects! 🚀
+
