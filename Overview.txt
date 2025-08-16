@@ -1,0 +1,85 @@
+📌 Overview
+
+This report highlights 18 anomaly days in Bitcoin (BTC-USD) between 2020 and 2023, detected using price–volume anomaly analysis. These anomalies correspond to major global events, institutional moves, and crypto-specific crises, which caused significant deviations in Bitcoin’s normal trading behavior.
+
+The dataset captures key metrics: Date, Closing Price, Volume, and Daily Returns (%).
+
+📊 Anomaly Data (Extracted)
+| Date       | Close (USD) | Volume | Return % | Notes                 |
+| ---------- | ----------- | ------ | -------- | --------------------- |
+| 2020-03-13 | 5,563.71    | 74.1B  | +11.93%  | COVID-19 panic crash  |
+| 2020-12-17 | 22,805.16   | 71.3B  | +7.01%   | BTC breaks 2017 ATH   |
+| 2021-01-06 | 36,824.36   | 75.3B  | +8.33%   | Bull run acceleration |
+| 2021-01-11 | 35,566.66   | 123.3B | –7.27%   | Short-term correction |
+| 2021-01-21 | 30,825.70   | 75.6B  | –13.28%  | Correction after ATH  |
+| 2021-01-22 | 33,005.76   | 77.2B  | +7.07%   | Rebound rally         |
+| 2021-01-28 | 33,466.10   | 76.5B  | +9.96%   | Speculative momentum  |
+| 2021-02-08 | 46,196.46   | 101.4B | +18.75%  | Tesla \$1.5B BTC buy  |
+| 2021-02-23 | 48,824.43   | 106.1B | –9.93%   | Post-Tesla correction |
+| 2021-04-18 | 56,216.18   | 97.4B  | –7.36%   | Mid-cycle volatility  |
+| 2021-05-12 | 49,150.53   | 75.2B  | –13.32%  | Pre-crash weakness    |
+| 2021-05-19 | 37,002.44   | 126.3B | –13.77%  | Largest volume spike  |
+| 2021-05-20 | 40,782.74   | 88.2B  | +10.21%  | Dead cat bounce       |
+| 2021-05-21 | 37,304.69   | 82.0B  | –8.53%   | Continuation of crash |
+| 2021-05-23 | 34,770.58   | 78.4B  | –7.37%   | Extended sell-off     |
+| 2022-11-08 | 18,541.27   | 118.9B | –10.01%  | FTX collapse begins   |
+| 2022-11-09 | 15,880.78   | 102.9B | –14.35%  | FTX bankruptcy fears  |
+| 2022-11-10 | 17,586.77   | 83.2B  | +10.74%  | Short squeeze rebound |
+
+🕵️ Detailed Event Analysis
+🔻 2020: COVID-19 Shock
+
+March 13, 2020
+Bitcoin crashed alongside global equities during the pandemic’s onset. Massive liquidations in derivatives markets caused BTC to dip below $4K intraday before recovering.
+➡️ Interpretation: BTC acted like a risk asset, not a safe haven.
+
+🚀 Late 2020 – Early 2021: Bull Run
+
+Dec 17, 2020 — BTC broke past its 2017 all-time high (~$20K). Institutional demand from firms like MicroStrategy drove bullish sentiment.
+
+Jan 6–28, 2021 — Multiple anomalies reflect volatility during rapid climbs. Every sharp correction was quickly followed by rebounds, showing strong demand.
+➡️ Interpretation: Institutional adoption + halving effects created a strong bull cycle.
+
+💥 Feb 2021: Tesla Effect
+
+Feb 8, 2021 — Tesla revealed a $1.5B BTC purchase and acceptance of BTC payments. Price surged nearly 20% in a single day.
+
+Feb 23, 2021 — A correction followed as traders took profit near ~$50K.
+➡️ Interpretation: Market highly reactive to corporate adoption news.
+
+⚠️ Apr–May 2021: Crash Phase
+
+Apr 18, 2021 — BTC began showing exhaustion signs after peaking ~$64K.
+
+May 12–23, 2021 — A series of anomalies capture the largest BTC crash since 2017:
+
+May 19, 2021 had the largest volume spike (126B USD), as cascading liquidations triggered panic.
+
+Prices swung wildly with daily changes of ±10–14%.
+➡️ Interpretation: The May crash was retail-driven panic amplified by leveraged liquidations.
+
+❄️ 2022: Crypto Winter
+
+Nov 8–10, 2022 — Anomalies coincide with the FTX collapse.
+
+Nov 8–9 saw double-digit negative returns as contagion fears spread.
+
+Nov 10 saw a temporary +10% rebound (short squeeze).
+➡️ Interpretation: Structural risks (exchange insolvencies) fueled prolonged bearish sentiment.
+
+📈 Key Insights
+
+18 anomaly days reflect crisis events or major adoption news.
+
+Largest Volume Spike: May 19, 2021 (126B USD) → Bitcoin’s biggest single-day washout.
+
+Most anomalies occurred in bull run (2020–21) and FTX collapse (2022) periods.
+
+Bitcoin consistently shows higher volatility during external shocks (COVID, FTX) and news-driven adoption events (Tesla, institutional buys).
+
+⚠️ Disclaimer
+
+This report is for educational purposes only. It does not constitute financial or investment advice. Cryptocurrency markets are highly volatile — past anomalies do not guarantee future performance.
+
+
+
