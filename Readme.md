@@ -14,18 +14,18 @@ The focus is on identifying **18 anomaly days** where both **sharp price changes
 
 ## 📷 Screenshots
 
+### 🔹 Power BI Dashboard
+![Power BI Dashboard](charts/powerbi_dashboard.png)  
+*Figure 3: Interactive dashboard showing anomalies, KPIs, and event labels.*  
+
+---
+
 ### 🔹 Jupyter Notebook Analysis
 ![Bitcoin Price with Anomalies](charts/anomalies_chart.png)  
 *Figure 1: BTC price with anomaly points (red dots).*  
 
 ![Bitcoin Volume Spikes](charts/volume_chart.png)  
 *Figure 2: BTC volume spikes with anomaly highlights.*  
-
----
-
-### 🔹 Power BI Dashboard
-![Power BI Dashboard](charts/powerbi_dashboard.png)  
-*Figure 3: Interactive dashboard showing anomalies, KPIs, and event labels.*  
 
 ---
 
@@ -103,6 +103,7 @@ Cryptocurrency markets are highly volatile — always do your own research befor
 ## ⭐ How to Support
 If you found this project helpful, please **star ⭐ this repository** on GitHub.  
 Your support motivates me to create more projects! 🚀
+
 
 
 
